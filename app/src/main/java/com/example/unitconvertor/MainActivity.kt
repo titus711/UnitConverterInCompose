@@ -70,7 +70,7 @@ fun UnitConverter() {
     }
 
     val customTextStyle = TextStyle(
-        fontFamily = FontFamily.Default,
+        fontFamily = FontFamily.Monospace,
         fontSize = 16.sp,
         color = androidx.compose.ui.graphics.Color.Red
     )
